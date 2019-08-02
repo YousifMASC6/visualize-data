@@ -3,14 +3,14 @@ const data = {
         {
             "gender": "male",
             "name": {
-                "title": "mr",
-                "first": "zackary",
-                "last": "mitchell"
+                "title": "Mr",
+                "first": "Zackary",
+                "last": "Mitchell"
             },
             "location": {
                 "street": "2982 concession road 6",
                 "city": "red rock",
-                "state": "new brunswick",
+                "state": "New Brunswick",
                 "postcode": "F8C 7P5",
                 "coordinates": {
                     "latitude": "-58.9587",
@@ -24,7 +24,7 @@ const data = {
             "email": "zackary.mitchell@example.com",
             "login": {
                 "uuid": "fa445a45-99cb-4f1c-859f-f37fb021bc03",
-                "username": "organiczebra966",
+                "username": "Organiczebra966",
                 "password": "franky",
                 "salt": "LLVU8eWH",
                 "md5": "857600c4e989d27d0d0d4b9954f952c5",
@@ -55,14 +55,14 @@ const data = {
         {
             "gender": "male",
             "name": {
-                "title": "mr",
-                "first": "ralph",
-                "last": "hansen"
+                "title": "Mr",
+                "first": "Ralph",
+                "last": "Hansen"
             },
             "location": {
                 "street": "8883 pockrus page rd",
-                "city": "launceston",
-                "state": "australian capital territory",
+                "city": "Launceston",
+                "state": "Australian capital territory",
                 "postcode": 1101,
                 "coordinates": {
                     "latitude": "15.6179",
@@ -76,7 +76,7 @@ const data = {
             "email": "ralph.hansen@example.com",
             "login": {
                 "uuid": "4cab8f19-0d3d-41b9-800c-507a816d2aff",
-                "username": "blueelephant960",
+                "username": "Blueelephant960",
                 "password": "prosper",
                 "salt": "2kO88S5S",
                 "md5": "c41311f2704f5dbff71385fb1215c8e6",
@@ -107,7 +107,7 @@ const data = {
         {
             "gender": "male",
             "name": {
-                "title": "mr",
+                "title": "Mr",
                 "first": "اميرعلي",
                 "last": "زارعی"
             },
@@ -128,7 +128,7 @@ const data = {
             "email": "اميرعلي.زارعی@example.com",
             "login": {
                 "uuid": "bb33f303-f02e-41ee-87ae-2f0a3dd6382a",
-                "username": "blacktiger173",
+                "username": "Blacktiger173",
                 "password": "smitty",
                 "salt": "307Ioufa",
                 "md5": "f55a05ceceffe02a21a73913018c51d5",
@@ -159,14 +159,14 @@ const data = {
         {
             "gender": "male",
             "name": {
-                "title": "mr",
-                "first": "luis",
-                "last": "hernandez"
+                "title": "Mr",
+                "first": "Luis",
+                "last": "Hernandez"
             },
             "location": {
                 "street": "4528 calle de ferraz",
-                "city": "santa cruz de tenerife",
-                "state": "andalucía",
+                "city": "Santa cruz de tenerife",
+                "state": "Andalucía",
                 "postcode": 81715,
                 "coordinates": {
                     "latitude": "-78.8996",
@@ -180,7 +180,7 @@ const data = {
             "email": "luis.hernandez@example.com",
             "login": {
                 "uuid": "71eb134a-c01e-47ef-b835-10d2e1f5bef5",
-                "username": "purplezebra436",
+                "username": "Purplezebra436",
                 "password": "muffy",
                 "salt": "zq7A1TlQ",
                 "md5": "4f6d4477dc896029e6ba8a3879d7d9bb",
@@ -211,14 +211,14 @@ const data = {
         {
             "gender": "female",
             "name": {
-                "title": "miss",
-                "first": "katherine",
-                "last": "richardson"
+                "title": "Miss",
+                "first": "Katherine",
+                "last": "Richardson"
             },
             "location": {
                 "street": "9273 north road",
-                "city": "maynooth",
-                "state": "mayo",
+                "city": "Maynooth",
+                "state": "Mayo",
                 "postcode": 15740,
                 "coordinates": {
                     "latitude": "57.7191",
@@ -232,7 +232,7 @@ const data = {
             "email": "katherine.richardson@example.com",
             "login": {
                 "uuid": "57b35ec2-ec2d-4816-bb62-77c0c64f6db2",
-                "username": "organicswan626",
+                "username": "Organicswan626",
                 "password": "gonzo1",
                 "salt": "K7rBH5SD",
                 "md5": "8d20fe0ef782e433b2170755b56f88f1",

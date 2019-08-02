@@ -1,6 +1,57 @@
 body{
-    padding: 0;
+    background-image: url("https://www.dershane.tv/wp-content/uploads/2018/12/Ask-1024x597.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    color: red;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Lobster', cursive;
+}
+div{
+    font-size: 20px;
+    margin-bottom: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+
+ul {
+    list-style-type: none;
     margin: 0;
-    
+    padding: 0;
+    overflow: auto;
+    background-color: rgb(243, 154, 168);
+}
+
+li {
+    float: left;
+}
+
+
+li a {
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: underline;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+li a:hover:not(.active) {
+    background-color: red;
+}
+
+.active {
+    background-color: tomato;
+}   
+
+p{
+    color: red;
+
 
 }
